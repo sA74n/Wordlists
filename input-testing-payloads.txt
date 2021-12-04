@@ -1,0 +1,9 @@
+<script
+<script>
+script
+<SCRIPT>
+<ScRiPt
+<img src=x onerror=javascript:alert()>
+<img src=x onerror=JaVascript:alert()>
+
+

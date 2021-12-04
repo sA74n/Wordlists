@@ -1,0 +1,10 @@
+test+(<script>alert(0)</script>)@gmail.com
+test(<script>alert(0)</script>)@gmail.com
+test@gmail(<script>alert(0)</script>).com
+"<script>alert(0)</script>"@gmail.com
+"<%= 7 * 7 %>"@gmail.com
+test+(${{7*7}})@gmail.com
+'"OR 1=1 -- "'@gmail.com
+"test); DROP TABLE use;--"@gmail.com
+test@[collaborator]
+%@gmail.com
